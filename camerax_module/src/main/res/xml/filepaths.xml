@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <path>
+        <external-path
+            name="sdcard_files"
+            path="" />
+        <external-files-path
+            name="camera_has_sdcard"
+            path="" />
+        <files-path
+            name="camera_no_sdcard"
+            path="" />
+    </path>
+</resources>

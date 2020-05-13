@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <com.android.jetpack.emoji.EmojiTextView
+        android:layout_width="match_parent"
+        android:layout_height="?android:actionBarSize" />
+
+    <com.android.jetpack.emoji.EmojiEditText
+        android:layout_width="match_parent"
+        android:layout_height="?android:actionBarSize" />
+
+    <androidx.emoji.widget.EmojiButton
+        android:layout_width="match_parent"
+        android:layout_height="?android:actionBarSize" />
+
+    <androidx.emoji.widget.EmojiEditText
+        android:layout_width="match_parent"
+        android:layout_height="?android:actionBarSize" />
+
+    <androidx.emoji.widget.EmojiExtractEditText
+        android:layout_width="match_parent"
+        android:layout_height="?android:actionBarSize" />
+
+    <androidx.emoji.widget.EmojiExtractTextLayout
+        android:layout_width="match_parent"
+        android:layout_height="?android:actionBarSize" />
+
+    <androidx.emoji.widget.EmojiTextView
+        android:layout_width="match_parent"
+        android:layout_height="?android:actionBarSize" />
+
+    <androidx.emoji.widget.EmojiAppCompatButton
+        android:layout_width="match_parent"
+        android:layout_height="?android:actionBarSize" />
+
+    <androidx.emoji.widget.EmojiAppCompatEditText
+        android:layout_width="match_parent"
+        android:layout_height="?android:actionBarSize" />
+
+    <androidx.emoji.widget.EmojiAppCompatTextView
+        android:layout_width="match_parent"
+        android:layout_height="?android:actionBarSize" />
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>
