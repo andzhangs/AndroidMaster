@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/Users/zhangshuai/Project____/Android/open_project/AndroidJetpackMaster/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/zhangshuai/application_cachedata/android-sdk-macosx/cmake/3.6.4111459/bin/cmake --build /Users/zhangshuai/Project____/Android/open_project/AndroidJetpackMaster/app/.cxx/cmake/release/x86 --target clean"
+  ],
+  "libraries": {
+    "native-lib-Release-x86": {
+      "artifactName": "native-lib",
+      "buildCommand": "/Users/zhangshuai/application_cachedata/android-sdk-macosx/cmake/3.6.4111459/bin/cmake --build /Users/zhangshuai/Project____/Android/open_project/AndroidJetpackMaster/app/.cxx/cmake/release/x86 --target native-lib",
+      "abi": "x86",
+      "output": "/Users/zhangshuai/Project____/Android/open_project/AndroidJetpackMaster/app/build/intermediates/cmake/release/obj/x86/libnative-lib.so"
+    }
+  }
+}

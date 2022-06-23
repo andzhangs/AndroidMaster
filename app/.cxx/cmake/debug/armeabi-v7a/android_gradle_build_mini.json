@@ -1,0 +1,16 @@
+{
+  "buildFiles": [
+    "/Users/zhangshuai/Project____/Android/open_project/AndroidJetpackMaster/app/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "/Users/zhangshuai/application_cachedata/android-sdk-macosx/cmake/3.6.4111459/bin/cmake --build /Users/zhangshuai/Project____/Android/open_project/AndroidJetpackMaster/app/.cxx/cmake/debug/armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "native-lib-Debug-armeabi-v7a": {
+      "artifactName": "native-lib",
+      "buildCommand": "/Users/zhangshuai/application_cachedata/android-sdk-macosx/cmake/3.6.4111459/bin/cmake --build /Users/zhangshuai/Project____/Android/open_project/AndroidJetpackMaster/app/.cxx/cmake/debug/armeabi-v7a --target native-lib",
+      "abi": "armeabi-v7a",
+      "output": "/Users/zhangshuai/Project____/Android/open_project/AndroidJetpackMaster/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libnative-lib.so"
+    }
+  }
+}

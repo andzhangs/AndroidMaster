@@ -1,1 +1,8 @@
-include ':app', ':databinding_module', ':camerax_module', ':lib_base', ':amination_module', ':livedata_module', ':emoji_module', ':workmanager_module', ':lifecycle_module', ':download_module', ':room_module', ':paging_module', ':bugly_module', ':Glide_Module', ':Rxbinding_Module'
+include ':app',
+        ':camerax_module',
+        ':lib_base',
+        ':amination_module',
+        ':emoji_module',
+        ':workmanager_module',
+        ':download_module',
+        ':bugly_module'

@@ -5,30 +5,22 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="delegatedBuild" value="false" />
-        <option name="testRunner" value="PLATFORM" />
+        <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/Glide_Module" />
-            <option value="$PROJECT_DIR$/Rxbinding_Module" />
             <option value="$PROJECT_DIR$/amination_module" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/bugly_module" />
             <option value="$PROJECT_DIR$/camerax_module" />
-            <option value="$PROJECT_DIR$/databinding_module" />
             <option value="$PROJECT_DIR$/download_module" />
             <option value="$PROJECT_DIR$/emoji_module" />
             <option value="$PROJECT_DIR$/lib_base" />
-            <option value="$PROJECT_DIR$/lifecycle_module" />
-            <option value="$PROJECT_DIR$/livedata_module" />
-            <option value="$PROJECT_DIR$/paging_module" />
-            <option value="$PROJECT_DIR$/room_module" />
             <option value="$PROJECT_DIR$/workmanager_module" />
           </set>
         </option>
-        <option name="resolveModulePerSourceSet" value="false" />
       </GradleProjectSettings>
     </option>
   </component>

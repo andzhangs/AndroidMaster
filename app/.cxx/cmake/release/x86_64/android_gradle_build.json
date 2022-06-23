@@ -1,0 +1,41 @@
+
+{
+	"buildFiles" : 
+	[
+		"/Users/zhangshuai/Project____/Android/open_project/AndroidJetpackMaster/app/src/main/cpp/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"/Users/zhangshuai/application_cachedata/android-sdk-macosx/cmake/3.6.4111459/bin/cmake --build /Users/zhangshuai/Project____/Android/open_project/AndroidJetpackMaster/app/.cxx/cmake/release/x86_64 --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"native-lib-Release-x86_64" : 
+		{
+			"abi" : "x86_64",
+			"artifactName" : "native-lib",
+			"buildCommand" : "/Users/zhangshuai/application_cachedata/android-sdk-macosx/cmake/3.6.4111459/bin/cmake --build /Users/zhangshuai/Project____/Android/open_project/AndroidJetpackMaster/app/.cxx/cmake/release/x86_64 --target native-lib",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=x86_64-none-linux-android21 --gcc-toolchain=/Users/zhangshuai/application_cachedata/android-sdk-macosx/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64 --sysroot=/Users/zhangshuai/application_cachedata/android-sdk-macosx/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O2 -DNDEBUG  -fPIC    -c ",
+					"src" : "/Users/zhangshuai/Project____/Android/open_project/AndroidJetpackMaster/app/src/main/cpp/native-lib.cpp",
+					"workingDirectory" : "/Users/zhangshuai/Project____/Android/open_project/AndroidJetpackMaster/app/.cxx/cmake/release/x86_64"
+				}
+			],
+			"output" : "/Users/zhangshuai/Project____/Android/open_project/AndroidJetpackMaster/app/build/intermediates/cmake/release/obj/x86_64/libnative-lib.so",
+			"toolchain" : "14200683400556478677"
+		}
+	},
+	"toolchains" : 
+	{
+		"14200683400556478677" : 
+		{
+			"cCompilerExecutable" : "/Users/zhangshuai/application_cachedata/android-sdk-macosx/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/Users/zhangshuai/application_cachedata/android-sdk-macosx/ndk-bundle/toolchains/llvm/prebuilt/darwin-x86_64/bin/clang++"
+		}
+	}
+}
